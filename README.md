@@ -211,7 +211,7 @@ BCI-Motor-Imagery/
 │   ├── left_right_results_confirmed.csv
 │   └── 4_MI_results_confirmed.csv
 ├── notebooks/
-│   └── VÁ_Biological_Data_Science_Final.ipynb
+│   └── BCI_MI_Classification.ipynb
 ├── figures/
 │   ├── left_right_performances.png
 │   ├── 4motor_performances.png
