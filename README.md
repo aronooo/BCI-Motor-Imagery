@@ -151,7 +151,7 @@ The 4-class problem is significantly harder. Chance level drops to 25%, but the 
 
 ## Model Validation: CNN Saliency Maps
 
-An important question: *is the CNN actually learning the right thing?* Saliency maps show which electrodes and time points the model considers most important for its predictions.
+An important question: *is the CNN actually learning the right thing?* Saliency maps show which electrodes and locations the model considers most important for its predictions.
 
 <p align="center">
   <img src="figures/saliency_map_s3_left.png" width="400"/>
